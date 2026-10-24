@@ -191,13 +191,14 @@ Open to **full-time Cloud & DevOps opportunities**.
 
 ## 📊 GitHub Statistics
 
+
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=hdarji1912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="100%" height="180" alt="Hardik's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=hdarji1912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="100%" alt="Hardik's GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdarji1912&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Hardik's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdarji1912&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Hardik's Top Languages" />
     </td>
   </tr>
 </table>
@@ -205,6 +206,7 @@ Open to **full-time Cloud & DevOps opportunities**.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hdarji1912&theme=tokyonight&hide_border=true" width="100%" alt="Hardik's GitHub Streak" />
 </p>
+
 
 ---
 

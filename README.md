@@ -120,7 +120,7 @@ Key implementations include:
 
 > Hands-on AWS projects covering compute, networking, scalability, storage, and web hosting.
 
-- [AWS Static Website Hosting with S3 & CloudFront](https://github.com/hdarji1912/AWS-SAA-Hands-On-Learning-Documentation)
+- [AWS-SAA-Hands-On-Learning-Documentation](https://github.com/hdarji1912/AWS-SAA-Hands-On-Learning-Documentation)
 ---
 
 ## 🏗️ Terraform Projects
@@ -148,7 +148,7 @@ Production-style CI/CD pipeline featuring:
 - Artifacts
 - Deployment automation
 
-🔗 [GitHub Actions Capstone](https://github.com/hdarji1912/devops-learning-hub)
+🔗 [devops-learning-hub](https://github.com/hdarji1912/devops-learning-hub)
 
 ---
 
@@ -156,7 +156,7 @@ Production-style CI/CD pipeline featuring:
 
 > Hands-on Linux administration, monitoring, and troubleshooting labs.
 
-- [Linux Monitoring & Troubleshooting Lab](https://github.com/hdarji1912/linux-server-health-monitor)
+- [linux-server-health-monitor](https://github.com/hdarji1912/linux-server-health-monitor)
 
 ---
 

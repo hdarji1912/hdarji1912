@@ -80,10 +80,10 @@ I document my hands-on work through real-world projects, technical notes, labs, 
 | Area | Technologies |
 |------|--------------|
 | ☁️ Cloud | AWS, EC2, S3, IAM, VPC, ALB, Auto Scaling, CloudFront, Route 53 |
-| 🏗️ IaC | Terraform |
+| 🏗️ IaC | Terraform | Ansible |
 | 🐳 Containers | Docker, Docker Compose |
 | ☸️ Kubernetes | Kubernetes, Amazon EKS, Helm |
-| 🔄 CI/CD | GitHub Actions |
+| 🔄 CI/CD | GitHub Actions | Jenkins | Gitlab |
 | 🔁 GitOps | Argo CD |
 | 📊 Observability | Prometheus, Grafana, Loki |
 | 🐧 Linux | Administration, networking, permissions, processes, troubleshooting |

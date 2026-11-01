@@ -83,7 +83,7 @@ I document my hands-on work through real-world projects, technical notes, labs, 
 | 🏗️ IaC | Terraform | Ansible |
 | 🐳 Containers | Docker, Docker Compose |
 | ☸️ Kubernetes | Kubernetes, Amazon EKS, Helm |
-| 🔄 CI/CD | GitHub Actions | Jenkins | Gitlab |
+| 🔄 CI/CD | GitHub Actions , Jenkins , Gitlab |
 | 🔁 GitOps | Argo CD |
 | 📊 Observability | Prometheus, Grafana, Loki |
 | 🐧 Linux | Administration, networking, permissions, processes, troubleshooting |
